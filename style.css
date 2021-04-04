@@ -85,9 +85,16 @@ h4{
 
 p{
     font-size: large;
-    caret-color:white;
 }
 
 h5{
     font-size: medium;
+}
+
+img-responcive{
+    text-align:center;
+}
+
+div{
+    display: ruby;
 }
